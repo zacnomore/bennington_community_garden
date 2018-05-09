@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Bennington Community Garden
 tagline:          'A fun thing'
-description:      'The Bennington community garden website'
+description:      'The website for the Bennington Community Garden'
 url:              https://www.beningtongarden.org
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
