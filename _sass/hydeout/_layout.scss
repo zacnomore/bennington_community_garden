@@ -154,7 +154,7 @@ body {
 
   #sidebar, .home #sidebar {
     width: $sidebar-width;
-    text-align: left;
+    text-align: center;;
 
     > *:last-child {
       margin-bottom: 0;
@@ -276,7 +276,7 @@ body {
 @if $sidebar-sticky {
   @media (min-width: $large-breakpoint) {
     body {
-      align-items: flex-end;
+      align-items: flex-start;
     }
   }
 }
