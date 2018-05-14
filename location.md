@@ -11,7 +11,7 @@ Catherine Bryars <br/>
 212 Middle Pownal Road <br/>
 Bennington, Vermont 05201<br/>  
 
-E-mail Address: <a mailto="benningtoncommunitygarden@gmail.com">benningtoncommunitygarden@gmail.com</a>
+E-mail Address: <a mailto="info@benningtongarden.com">benningtoncommunitygarden@gmail.com</a>
 
 ## Location of the Garden
 
