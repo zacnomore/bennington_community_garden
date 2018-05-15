@@ -4,8 +4,8 @@ highlighter:      rouge
 
 # Setup
 title:            Bennington Community Garden
-tagline:          'A fun thing'
-description:      'The website for the Bennington Community Garden'
+tagline:          'A happy little garden'
+description:      ''
 url:              https://www.beningtongarden.org
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -14,7 +14,7 @@ baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # sidebar_blog_link below.
 
 author:
-  name:           'Zachary Svoboda'
+  name:           'Zachary Svoboda & Jessica Prendergast'
 
 paginate:         5
 # paginate_path:    '/page:num'
@@ -26,7 +26,6 @@ plugins:
   - jekyll-paginate
 
 # Custom vars
-version:            0.0.2
 sidebar_home_link:  true
 # sidebar_blog_link:  '/blog'   # By default, your home page is your blog
                                 # page. If you change your paginate_path,
