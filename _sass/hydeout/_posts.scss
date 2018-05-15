@@ -35,6 +35,7 @@ article + *, .post-body ~ section {
 // h1-size h2
 h2.post-title, h2.page-title {
   font-size: 2rem;
+  text-align: center;
 }
 
 // Meta data line below post title
@@ -42,6 +43,7 @@ h2.post-title, h2.page-title {
   margin-top: -.5rem;
   margin-bottom: 1rem;
   color: $body-muted;
+  text-align: center;
 }
 
 .post-tags a {

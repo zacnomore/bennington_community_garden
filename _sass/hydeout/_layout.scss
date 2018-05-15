@@ -195,6 +195,7 @@ body {
       margin: 0;
       h1, h2 {
         color: inherit;
+        text-align: center;
 
         &:last-child {
           margin-bottom: $heading-spacing;
@@ -204,7 +205,6 @@ body {
 
     > * {
       padding: 0;
-      text-align: center;
     }
   }
 }
