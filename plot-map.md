@@ -4,7 +4,5 @@ title: Plot Map
 sidebar_link: true
 ---
 
-
-This is where you can find the plot map once it exists!
-
-
+To reserve a plot, download and fill out the form <a href="{{site.baseurl}}/assets/BCGardenRegistrationForm_2018.pdf" download>here</a>.
+![Plot-map]({{ "/assets/images/garden-availability.png" | absolute_url }})
