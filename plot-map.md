@@ -4,5 +4,5 @@ title: Plot Map
 sidebar_link: true
 ---
 
-To reserve a plot, download and fill out the form <a href="{{site.baseurl}}/assets/BCGardenRegistrationForm_2018.pdf" download>here</a>.
-![Plot-map]({{ "/assets/images/garden-availability.png" | absolute_url }})
+
+Thank you for your interest in the garden! We've filled up all our plots for this year but you can get a head start on next year but send an email over to benningtoncommunitygarden@gmail.com to find out how you can reserve a spot.
